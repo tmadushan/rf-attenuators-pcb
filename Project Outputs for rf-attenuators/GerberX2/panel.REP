@@ -1,0 +1,289 @@
+*************************************************************
+FileName = panel.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : panel_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : panel_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : panel_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : panel_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : panel_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : panel_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : panel_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : panel_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : panel_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : panel_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D16
+    D17
+    D21
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : panel_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : panel_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D23
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 24
+      File : panel_Mechanical_24.gbr
+
+    Adding Layer      : Mechanical 24
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 21
+      File : panel_Mechanical_21.gbr
+
+    Adding Layer      : Mechanical 21
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : panel_Mechanical_20.gbr
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : panel_Mechanical_5.gbr
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : panel_Mechanical_16.gbr
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : panel_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D26
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 23
+      File : panel_Mechanical_23.gbr
+
+    Adding Layer      : Mechanical 23
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : panel_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D23
+    D27
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : panel_Profile.gbr
+
+
+Used DCodes :
+    D31
+*************************************************************
+

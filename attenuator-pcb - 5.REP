@@ -1,0 +1,69 @@
+Teardrop Report attenuator-pcb - 5.PcbDoc
+On 19/09/2023 at 6:52:59 AM
+
+Pads visited                : 22
+
+Vias visited                : 34
+
+Pad teardrops failed : 0
+
+Pad R35-2(70.358mm,39.425mm) on Top Layer
+Pad R35-1(70.358mm,36.575mm) on Top Layer
+Pad R41-2(70.358mm,32.989mm) on Top Layer
+Pad R41-1(70.358mm,30.139mm) on Top Layer
+Pad R40-2(53mm,32.989mm) on Top Layer
+Pad R40-1(53mm,30.139mm) on Top Layer
+Pad R37-2(53mm,39.302mm) on Top Layer
+Pad R37-1(53mm,36.452mm) on Top Layer
+Pad R33-2(65.207mm,39.37mm) on Top Layer
+Pad R33-1(62.357mm,39.37mm) on Top Layer
+Pad R32-2(58.702mm,39.37mm) on Top Layer
+Pad R32-1(55.852mm,39.37mm) on Top Layer
+Pad J12-1(76.24mm,39.298mm) on Top Layer
+Pad J12-2(76.24mm,42.068mm) on Top Layer
+Pad J12-3(76.24mm,36.528mm) on Top Layer
+Pad J11-1(44.577mm,39.14mm) on Top Layer
+Pad J11-2(44.577mm,36.37mm) on Top Layer
+Pad J11-3(44.577mm,41.91mm) on Top Layer
+Pad J12-4(76.24mm,42.068mm) on Bottom Layer
+Pad J12-5(76.24mm,36.528mm) on Bottom Layer
+Pad J11-4(44.577mm,36.37mm) on Bottom Layer
+Pad J11-5(44.577mm,41.91mm) on Bottom Layer
+
+Via teardrops failed : 0
+
+Via (72.898mm,31.115mm) from Top Layer to Bottom Layer
+Via (72.39mm,43.561mm) from Top Layer to Bottom Layer
+Via (72.009mm,41.783mm) from Top Layer to Bottom Layer
+Via (69.977mm,41.783mm) from Top Layer to Bottom Layer
+Via (47.117mm,34.163mm) from Top Layer to Bottom Layer
+Via (48.768mm,43.434mm) from Top Layer to Bottom Layer
+Via (46.863mm,44.323mm) from Top Layer to Bottom Layer
+Via (49.348mm,41.649mm) from Top Layer to Bottom Layer
+Via (48.641mm,36.703mm) from Top Layer to Bottom Layer
+Via (50.038mm,36.195mm) from Top Layer to Bottom Layer
+Via (55.753mm,34.163mm) from Top Layer to Bottom Layer
+Via (50.038mm,34.544mm) from Top Layer to Bottom Layer
+Via (50.165mm,32.639mm) from Top Layer to Bottom Layer
+Via (55.88mm,32.385mm) from Top Layer to Bottom Layer
+Via (67.818mm,34.036mm) from Top Layer to Bottom Layer
+Via (72.603mm,33.262mm) from Top Layer to Bottom Layer
+Via (72.603mm,35.282mm) from Top Layer to Bottom Layer
+Via (61.194mm,41.431mm) from Top Layer to Bottom Layer
+Via (59.183mm,41.617mm) from Top Layer to Bottom Layer
+Via (57.849mm,37.153mm) from Top Layer to Bottom Layer
+Via (59.863mm,37.308mm) from Top Layer to Bottom Layer
+Via (61.875mm,37.123mm) from Top Layer to Bottom Layer
+Via (53.594mm,42.037mm) from Top Layer to Bottom Layer
+Via (51.435mm,41.91mm) from Top Layer to Bottom Layer
+Via (55.88mm,35.687mm) from Top Layer to Bottom Layer
+Via (55.842mm,37.123mm) from Top Layer to Bottom Layer
+Via (56.709mm,41.586mm) from Top Layer to Bottom Layer
+Via (67.869mm,41.628mm) from Top Layer to Bottom Layer
+Via (65.849mm,41.628mm) from Top Layer to Bottom Layer
+Via (63.866mm,41.247mm) from Top Layer to Bottom Layer
+Via (63.797mm,37.593mm) from Top Layer to Bottom Layer
+Via (65.761mm,37.123mm) from Top Layer to Bottom Layer
+Via (67.781mm,37.139mm) from Top Layer to Bottom Layer
+Via (67.691mm,35.687mm) from Top Layer to Bottom Layer
+
