@@ -1,0 +1,271 @@
+*************************************************************
+FileName = attenuator-pcb - 3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : attenuator-pcb - 3_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : attenuator-pcb - 3_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : attenuator-pcb - 3_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : attenuator-pcb - 3_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : attenuator-pcb - 3_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : attenuator-pcb - 3_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : attenuator-pcb - 3_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : attenuator-pcb - 3_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : attenuator-pcb - 3_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : attenuator-pcb - 3_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D16
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : attenuator-pcb - 3_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : attenuator-pcb - 3_Mechanical_13.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D18
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : attenuator-pcb - 3_Mechanical_24.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : attenuator-pcb - 3_Mechanical_21.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : attenuator-pcb - 3_Mechanical_20.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : attenuator-pcb - 3_Mechanical_5.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : attenuator-pcb - 3_Mechanical_16.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : attenuator-pcb - 3_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : attenuator-pcb - 3_Mechanical_23.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : attenuator-pcb - 3_Mechanical_15.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D18
+    D21
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : attenuator-pcb - 3_Profile.gbr
+
+
+Used DCodes :
+    D24
+*************************************************************
+

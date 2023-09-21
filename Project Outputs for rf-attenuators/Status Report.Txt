@@ -1,10 +1,29 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [rf-attenuators.PrjPcb]
-   Generated File[Bill of Materials-rf-attenuators.xlsx]
+Output: Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Gerber X2 Files
+Type  : GerberX2
+From  : PCB Document [Panel 3.PcbDoc]
+   Generated File[Panel 3_Copper_Signal_Top.gbr]
+   Generated File[Panel 3_Copper_Signal_Bot.gbr]
+   Generated File[Panel 3_Pads_Bot.gbr]
+   Generated File[Panel 3_Pads_Top.gbr]
+   Generated File[Panel 3_Legend_Bot.gbr]
+   Generated File[Panel 3_Soldermask_Bot.gbr]
+   Generated File[Panel 3_Paste_Bot.gbr]
+   Generated File[Panel 3_Legend_Top.gbr]
+   Generated File[Panel 3_Paste_Top.gbr]
+   Generated File[Panel 3_Soldermask_Top.gbr]
+   Generated File[Panel 3_Keep-out.gbr]
+   Generated File[Panel 3_Mechanical_1.gbr]
+   Generated File[Panel 3_Profile.gbr]
+   Generated File[Panel 3_NPTH_Drill.gbr]
+   Generated File[Panel 3_PTH_Drill.gbr]
+   Generated File[Panel 3_Drawing_1.gbr]
+   Generated File[Panel 3_Drillmap_1.gbr]
+   Generated File[Panel 3.RUL]
+   Generated File[Panel 3.EXTREP]
+   Generated File[Panel 3.REP]
 
 
-Files Generated   : 1
+Files Generated   : 20
 Documents Printed : 0
 
-Finished Output Generation At 9:13:07 AM On 19/09/2023
+Finished Output Generation At 10:58:10 AM On 21/09/2023

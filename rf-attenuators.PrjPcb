@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=panel.PcbDoc
+DocumentPath=Panel 1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -239,170 +239,1600 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FYSCNPPW
+DocumentUniqueId=THLGYOIR
+
+[Document13]
+DocumentPath=Panel 2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WCJAWNRF
+
+[Document14]
+DocumentPath=Panel 3.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OESDTIAJ
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\NC Drill\attenuator-pcb-BoardEdgeRout.TXT
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 2-BoardEdgeRout.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\NC Drill\attenuator-pcb.DRL
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 2.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\attenuator-pcb.DRR
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb.EXTREP
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\NC Drill\attenuator-pcb.LDP
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb.REP
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb.RUL
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\NC Drill\attenuator-pcb.TXT
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Keep-out.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Legend_Bot.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Legend_Top.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Mechanical_1.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Mechanical_5.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Mechanical_13.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Mechanical_15.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Mechanical_16.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Mechanical_20.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GM23
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Mechanical_21.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GM24
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Mechanical_23.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Mechanical_24.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Pads_Bot.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Pads_Top.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Paste_Bot.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Paste_Top.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Profile.gbr
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\GerberX2\attenuator-pcb_Soldermask_Top.gbr
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-rf-attenuators.xlsx
+DocumentPath=Project Outputs for rf-attenuators\Gerber\attenuator-pcb - 2.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb - 2.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb - 3.html
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 2.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb - 4.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb - 5.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb - 6.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb - 7.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb - 8.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb - 9.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb - 10.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Mechanical_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - attenuator-pcb.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for rf-attenuators\Design Rule Check - panel.html
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 2_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 3-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 3.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 3.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 3.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 3_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 4-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 4.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 4.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 4.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4.REP
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 4.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 4_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 5-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 5.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 5.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 5.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5.REP
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 5.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 5_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 6-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 6.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 6.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 6.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 6.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument156]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument157]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument158]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument164]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument165]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument166]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument167]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument168]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument169]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 6_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument170]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 7-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument171]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 7.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument172]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 7.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument173]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument174]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 7.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument175]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7.REP
+DItemRevisionGUID=
+
+[GeneratedDocument176]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument177]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 7.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument178]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument179]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument180]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument181]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument182]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument183]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument184]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument185]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument186]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument187]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument188]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument189]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument190]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument191]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument192]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument193]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument194]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument195]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument196]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument197]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument198]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 7_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument199]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 8-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument200]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 8.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument201]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument202]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 8.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument203]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8.REP
+DItemRevisionGUID=
+
+[GeneratedDocument204]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument205]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument206]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument207]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument208]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument209]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument210]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument211]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument212]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument213]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument214]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument215]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument216]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument217]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument218]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument219]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument220]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument221]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument222]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument223]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument224]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument225]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 8_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument226]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 9-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument227]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 9.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument228]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument229]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 9.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument230]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9.REP
+DItemRevisionGUID=
+
+[GeneratedDocument231]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument232]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument233]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument234]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument235]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument236]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument237]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument238]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument239]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument240]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument241]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument242]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument243]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument244]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument245]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument246]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument247]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument248]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument249]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument250]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument251]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument252]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 9_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument253]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 10-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument254]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 10.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument255]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument256]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\attenuator-pcb - 10.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument257]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10.REP
+DItemRevisionGUID=
+
+[GeneratedDocument258]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument259]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument260]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument261]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument262]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument263]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument264]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument265]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument266]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument267]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument268]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument269]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument270]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument271]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument272]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument273]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument274]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument275]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument276]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument277]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument278]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument279]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\attenuator-pcb - 10_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument280]
+DocumentPath=Project Outputs for rf-attenuators\BOM\Bill of Materials-rf-attenuators.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument281]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument282]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument283]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument284]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument285]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument286]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument287]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument288]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument289]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument290]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument291]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument292]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument293]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument294]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument295]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument296]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument297]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument298]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument299]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument300]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 1_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument301]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument302]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument303]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument304]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument305]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument306]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument307]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument308]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument309]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument310]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument311]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument312]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument313]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument314]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument315]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument316]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument317]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument318]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument319]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument320]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 2_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument321]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument322]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument323]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument324]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument325]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument326]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument327]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument328]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument329]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument330]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument331]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument332]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument333]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument334]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument335]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument336]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument337]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument338]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument339]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument340]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument341]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\panel-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument342]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\panel.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument343]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\panel.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument344]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument345]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument346]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument347]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument348]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument349]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument350]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument351]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument352]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument353]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument354]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument355]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument356]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument357]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument358]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument359]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument360]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument361]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument362]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument363]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument364]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument365]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument366]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument367]
+DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument368]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument369]
+DocumentPath=Project Outputs for rf-attenuators\NC Drill\panel.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument370]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument371]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument372]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument373]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument374]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument375]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument376]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument377]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument378]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument379]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument380]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument381]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument382]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument383]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument384]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument385]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument386]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument387]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument388]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument389]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument390]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
