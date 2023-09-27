@@ -356,10 +356,10 @@ OutputName24=Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Cop
 OutputCategory24=Fabrication
 OutputDocumentPath24=Panel 1.PcbDoc
 OutputVariantName24=
-OutputEnabled24=1
+OutputEnabled24=0
 OutputEnabled24_OutputMedium1=0
 OutputEnabled24_OutputMedium2=0
-OutputEnabled24_OutputMedium3=1
+OutputEnabled24_OutputMedium3=0
 OutputDefault24=0
 Configuration24_Name1=OutputConfigurationParameter1
 Configuration24_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16908289~1,16973834~1,16973837~1,16973848~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
@@ -368,10 +368,10 @@ OutputName25=Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Cop
 OutputCategory25=Fabrication
 OutputDocumentPath25=Panel 2.PcbDoc
 OutputVariantName25=
-OutputEnabled25=1
+OutputEnabled25=0
 OutputEnabled25_OutputMedium1=0
 OutputEnabled25_OutputMedium2=0
-OutputEnabled25_OutputMedium3=2
+OutputEnabled25_OutputMedium3=0
 OutputDefault25=0
 Configuration25_Name1=OutputConfigurationParameter1
 Configuration25_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16908289~1,16973834~1,16973837~1,16973848~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
@@ -380,13 +380,25 @@ OutputName26=Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Cop
 OutputCategory26=Fabrication
 OutputDocumentPath26=Panel 3.PcbDoc
 OutputVariantName26=
-OutputEnabled26=1
+OutputEnabled26=0
 OutputEnabled26_OutputMedium1=0
 OutputEnabled26_OutputMedium2=0
-OutputEnabled26_OutputMedium3=3
+OutputEnabled26_OutputMedium3=0
 OutputDefault26=0
 Configuration26_Name1=OutputConfigurationParameter1
 Configuration26_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16908289~1,16973834~1,16973837~1,16973848~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
+OutputType27=Gerber X2
+OutputName27=Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Gerber X2 Files
+OutputCategory27=Fabrication
+OutputDocumentPath27=panel.PcbDoc
+OutputVariantName27=
+OutputEnabled27=1
+OutputEnabled27_OutputMedium1=0
+OutputEnabled27_OutputMedium2=0
+OutputEnabled27_OutputMedium3=1
+OutputDefault27=0
+Configuration27_Name1=OutputConfigurationParameter1
+Configuration27_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16908289~1,16973834~1,16973837~1,16973848~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
 
 [PublishSettings]
 OutputFilePath2=E:\Projects\rf-attenuators\rf-attenuators\Project Outputs for rf-attenuators\PDF\Job1.PDF

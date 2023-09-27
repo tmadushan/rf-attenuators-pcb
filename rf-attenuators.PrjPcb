@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=panel.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FYSCNPPW
+
+[Document2]
 DocumentPath=attenuator-pcb - 2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVHBMALS
 
-[Document2]
+[Document3]
 DocumentPath=attenuator-pcb - 3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGSKHNFR
 
-[Document3]
+[Document4]
 DocumentPath=attenuator-pcb - 4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVJQTEBH
 
-[Document4]
+[Document5]
 DocumentPath=attenuator-pcb - 5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNJQACJO
 
-[Document5]
+[Document6]
 DocumentPath=attenuator-pcb - 6.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NAFNOFTI
 
-[Document6]
+[Document7]
 DocumentPath=attenuator-pcb - 7.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESFBNLRU
 
-[Document7]
+[Document8]
 DocumentPath=attenuator-pcb - 8.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFXXFBFV
 
-[Document8]
+[Document9]
 DocumentPath=attenuator-pcb - 9.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJVXXLPX
 
-[Document9]
+[Document10]
 DocumentPath=attenuator-pcb - 10.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THVBWXLA
 
-[Document10]
+[Document11]
 DocumentPath=schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBZIAEMO
 
-[Document11]
+[Document12]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=Panel 1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THLGYOIR
 
-[Document13]
+[Document14]
 DocumentPath=Panel 2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCJAWNRF
 
-[Document14]
+[Document15]
 DocumentPath=Panel 3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1636,202 +1653,82 @@ DocumentPath=Project Outputs for rf-attenuators\GerberX2\Panel 3_Soldermask_Top.
 DItemRevisionGUID=
 
 [GeneratedDocument341]
-DocumentPath=Project Outputs for rf-attenuators\NC Drill\panel-BoardEdgeRout.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument342]
-DocumentPath=Project Outputs for rf-attenuators\NC Drill\panel.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument343]
-DocumentPath=Project Outputs for rf-attenuators\NC Drill\panel.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument344]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument345]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument346]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GBL
+[GeneratedDocument342]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel.REP
 DItemRevisionGUID=
 
-[GeneratedDocument347]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument348]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument349]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument350]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument351]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument352]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument353]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument354]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument355]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument356]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument357]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument358]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM21
-DItemRevisionGUID=
-
-[GeneratedDocument359]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM23
-DItemRevisionGUID=
-
-[GeneratedDocument360]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GM24
-DItemRevisionGUID=
-
-[GeneratedDocument361]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument362]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument363]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument364]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument365]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument366]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument367]
-DocumentPath=Project Outputs for rf-attenuators\Gerber\panel.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument368]
+[GeneratedDocument343]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument369]
-DocumentPath=Project Outputs for rf-attenuators\NC Drill\panel.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument370]
+[GeneratedDocument344]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument371]
+[GeneratedDocument345]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument372]
+[GeneratedDocument346]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument347]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument348]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Keep-out.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument373]
+[GeneratedDocument349]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument374]
+[GeneratedDocument350]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument375]
+[GeneratedDocument351]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument376]
-DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_5.gbr
+[GeneratedDocument352]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument377]
-DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument378]
-DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument379]
-DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_16.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument380]
-DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_20.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument381]
-DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_21.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument382]
-DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_23.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument383]
-DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Mechanical_24.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument384]
+[GeneratedDocument353]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument385]
+[GeneratedDocument354]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument386]
+[GeneratedDocument355]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument387]
+[GeneratedDocument356]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument388]
+[GeneratedDocument357]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument389]
+[GeneratedDocument358]
+DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument359]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument390]
+[GeneratedDocument360]
 DocumentPath=Project Outputs for rf-attenuators\GerberX2\panel_Soldermask_Top.gbr
 DItemRevisionGUID=
 

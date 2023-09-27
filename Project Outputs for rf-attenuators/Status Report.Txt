@@ -1,29 +1,33 @@
-Output: Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Gerber X2 Files
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:01:22 PM On 21/09/2023
+
+Output: Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Gerber X2 Files
 Type  : GerberX2
-From  : PCB Document [Panel 3.PcbDoc]
-   Generated File[Panel 3_Copper_Signal_Top.gbr]
-   Generated File[Panel 3_Copper_Signal_Bot.gbr]
-   Generated File[Panel 3_Pads_Bot.gbr]
-   Generated File[Panel 3_Pads_Top.gbr]
-   Generated File[Panel 3_Legend_Bot.gbr]
-   Generated File[Panel 3_Soldermask_Bot.gbr]
-   Generated File[Panel 3_Paste_Bot.gbr]
-   Generated File[Panel 3_Legend_Top.gbr]
-   Generated File[Panel 3_Paste_Top.gbr]
-   Generated File[Panel 3_Soldermask_Top.gbr]
-   Generated File[Panel 3_Keep-out.gbr]
-   Generated File[Panel 3_Mechanical_1.gbr]
-   Generated File[Panel 3_Profile.gbr]
-   Generated File[Panel 3_NPTH_Drill.gbr]
-   Generated File[Panel 3_PTH_Drill.gbr]
-   Generated File[Panel 3_Drawing_1.gbr]
-   Generated File[Panel 3_Drillmap_1.gbr]
-   Generated File[Panel 3.RUL]
-   Generated File[Panel 3.EXTREP]
-   Generated File[Panel 3.REP]
+From  : PCB Document [panel.PcbDoc]
+   Generated File[panel_Copper_Signal_Top.gbr]
+   Generated File[panel_Copper_Signal_Bot.gbr]
+   Generated File[panel_Pads_Bot.gbr]
+   Generated File[panel_Pads_Top.gbr]
+   Generated File[panel_Legend_Bot.gbr]
+   Generated File[panel_Soldermask_Bot.gbr]
+   Generated File[panel_Paste_Bot.gbr]
+   Generated File[panel_Legend_Top.gbr]
+   Generated File[panel_Paste_Top.gbr]
+   Generated File[panel_Soldermask_Top.gbr]
+   Generated File[panel_Keep-out.gbr]
+   Generated File[panel_Mechanical_1.gbr]
+   Generated File[panel_Profile.gbr]
+   Generated File[panel_NPTH_Drill.gbr]
+   Generated File[panel_PTH_Drill.gbr]
+   Generated File[panel_Drawing_1.gbr]
+   Generated File[panel_Drillmap_1.gbr]
+   Generated File[panel.RUL]
+   Generated File[panel.EXTREP]
+   Generated File[panel.REP]
 
 
 Files Generated   : 20
 Documents Printed : 0
 
-Finished Output Generation At 10:58:10 AM On 21/09/2023
+Finished Output Generation At 3:02:18 PM On 21/09/2023
